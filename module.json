@@ -4,13 +4,12 @@
 	"description": "Generate Loot for new Tokens with Better Tables",
 	"author": "Riye",
 	"version": "0.0.1",
-	"minimumCoreVersion": "0.5.0",
 	"systems": ["dnd5e"],
 	"minimumCoreVersion": "0.8.5",
 	"compatibleCoreVersion": "0.8.7",
-	"includes": [
-		"./hooks/**",
-		"./scripts/**"
+	"scripts": [
+		"gen-loot.js",
+		"scripts/GenLoot.js"
 	],
 	"url": "https://github.com/RiyeUK/gen-loot",
 	"manifest": "https://raw.githubusercontent.com/RiyeUK/gen-loot/main/module.json"
