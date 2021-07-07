@@ -7,9 +7,9 @@
 	"systems": ["dnd5e"],
 	"minimumCoreVersion": "0.8.5",
 	"compatibleCoreVersion": "0.8.7",
-	"scripts": [
-		"gen-loot.js",
-		"scripts/GenLoot.js"
+	"includes": [
+		"./hooks/**",
+		"./scripts/**"
 	],
 	"url": "https://github.com/RiyeUK/gen-loot",
 	"download": "https://github.com/RiyeUK/gen-loot/archive/refs/heads/main.zip",
