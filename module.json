@@ -12,5 +12,6 @@
 		"scripts/GenLoot.js"
 	],
 	"url": "https://github.com/RiyeUK/gen-loot",
+	"download": "https://github.com/RiyeUK/gen-loot/archive/refs/heads/main.zip",
 	"manifest": "https://raw.githubusercontent.com/RiyeUK/gen-loot/main/module.json"
 }
