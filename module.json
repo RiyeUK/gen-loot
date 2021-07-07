@@ -12,4 +12,6 @@
 		"./hooks/**",
 		"./scripts/**"
 	],
+	"url": "https://github.com/RiyeUK/gen-loot",
+	"manifest": "https://raw.githubusercontent.com/RiyeUK/gen-loot/main/module.json"
 }
